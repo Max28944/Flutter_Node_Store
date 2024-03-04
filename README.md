@@ -20,7 +20,7 @@ wlecome
 ![423766426_374147812151132_2055301427946877009_n](https://github.com/Max28944/Flutter_Node_Store/assets/115059192/0e875f8e-8eb4-404f-a41d-a62aac0da153)
 การลบสินค้า
 ![423472549_403340402279000_2160154695161696275_n](https://github.com/Max28944/Flutter_Node_Store/assets/115059192/706ede5d-0ba5-4e8b-b6dc-05a8562b6cec)
-โปรฌฟล์
+โปรไฟล์
 ![423422620_949493026743256_4968471316448265082_n](https://github.com/Max28944/Flutter_Node_Store/assets/115059192/157cdffc-e601-483b-bcd6-6fa070ed1c1d)
 
 
